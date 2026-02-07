@@ -1,0 +1,56 @@
+{
+  "cleaned_at": "2026-02-07T04:26:12.362422",
+  "count": 5,
+  "bills": [
+    {
+      "bill_number": "10",
+      "title": "Expressing the sense of the Congress that the tax give away since 2001 to the wealthiest 5 percent of Americans should be repealed and those monies instead invested in vital programs to relieve the growing burden on the working poor and to alleviate poverty in America.",
+      "introduced_date": null,
+      "congress": 110,
+      "bill_type": "HCONRES",
+      "origin_chamber": "House",
+      "topic": "Economy",
+      "last_updated": "2024-02-07"
+    },
+    {
+      "bill_number": "2",
+      "title": "Expressing the sense of the Congress that children in the United States should understand and appreciate the contributions of individuals from the territories of the United States and the contributions of such individuals in United States history.",
+      "introduced_date": null,
+      "congress": 110,
+      "bill_type": "HCONRES",
+      "origin_chamber": "House",
+      "topic": "Other",
+      "last_updated": "2025-07-21"
+    },
+    {
+      "bill_number": "20",
+      "title": "Calling on the Government of the United Kingdom to immediately establish a full, independent, and public judicial inquiry into the murder of Northern Ireland defense attorney Patrick Finucane, as recommended by Judge Peter Cory as part of the Weston Park Agreement, in order to move forward on the Northern Ireland peace process.",
+      "introduced_date": null,
+      "congress": 110,
+      "bill_type": "HCONRES",
+      "origin_chamber": "House",
+      "topic": "Defense",
+      "last_updated": "2025-04-07"
+    },
+    {
+      "bill_number": "12",
+      "title": "Requiring the display of the Ten Commandments in the United States Capitol.",
+      "introduced_date": null,
+      "congress": 110,
+      "bill_type": "HCONRES",
+      "origin_chamber": "House",
+      "topic": "Other",
+      "last_updated": "2024-02-07"
+    },
+    {
+      "bill_number": "22",
+      "title": "Expressing the sense of Congress that the President should provide notice of withdrawal of the United States from the North American Free Trade Agreement (NAFTA).",
+      "introduced_date": null,
+      "congress": 110,
+      "bill_type": "HCONRES",
+      "origin_chamber": "House",
+      "topic": "Economy",
+      "last_updated": "2024-02-07"
+    }
+  ]
+}
